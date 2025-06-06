@@ -1,0 +1,1082 @@
+[
+  {
+    "titulo": "Solicitação de Férias - João Silva",
+    "cc/cco": "gestor.joao@email.com",
+    "email": "Prezados, gostaria de solicitar a marcação de minhas férias para o período de 01/08/2025 a 30/08/2025. Aguardo a confirmação e a documentação necessária. Atenciosamente, João Silva.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Problema com a Máquina de Solda - Setor 3",
+    "cc/cco": "supervisor.producao@email.com",
+    "email": "A máquina de solda modelo T-800 do setor 3 está apresentando falhas intermitentes e superaquecimento. Precisamos de manutenção urgente para não comprometer a produção. Relatório de falhas anexo. Grato, Carlos Pereira.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Dúvida sobre o Pagamento da PLR",
+    "cc/cco": "rh@email.com",
+    "email": "Olá, gostaria de saber qual a data prevista para o pagamento da primeira parcela da PLR deste ano e quais serão os critérios de elegibilidade. Obrigado, Maria Oliveira.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Falta de Apontamento de Horas - 03/06/2025",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Boa tarde. Verifiquei meu espelho de ponto e notei que as horas trabalhadas no dia 03/06/2025 não foram registradas. Segue em anexo o comprovante de entrada e saída. Poderiam verificar? Atenciosamente, Pedro Martins.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Erro no Pagamento do Salário - Maio/2025",
+    "cc/cco": "financeiro@email.com",
+    "email": "Prezados, identifiquei uma inconsistência no valor do meu salário referente ao mês de maio. O valor depositado foi inferior ao que consta no meu holerite. Peço que verifiquem o ocorrido. Holerite em anexo. Grato, Ana Costa.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Agendamento de Férias - Luciana Ferreira",
+    "cc/cco": "",
+    "email": "Gostaria de formalizar meu pedido de férias para a primeira quinzena de setembro, de 01/09/2025 a 15/09/2025. Já conversei com meu gestor e ele está de acordo. Aguardo os próximos passos. Obrigada, Luciana Ferreira.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Manutenção Urgente - Prensa Hidráulica P-50",
+    "cc/cco": "manutencao@email.com",
+    "email": "A prensa hidráulica P-50 está com um vazamento de óleo e fazendo um barulho anormal. A operação foi interrompida por segurança. Solicitamos uma equipe de manutenção o mais rápido possível. Att, Ricardo Alves.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Consulta sobre Metas da PLR",
+    "cc/cco": "diretoria@email.com",
+    "email": "Prezados, poderiam nos informar como está o andamento das metas da empresa que impactam o pagamento da PLR? Gostaríamos de ter mais visibilidade sobre os indicadores. Atenciosamente, Equipe de Vendas.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Ausência de Registro de Ponto - 04/06/2025",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Olá, meu ponto do dia 04/06/2025 não foi computado. Trabalhei normalmente das 08:00 às 17:00. Solicito a correção. Obrigado, Fernando Lima.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Diferença no pagamento das Horas Extras",
+    "cc/cco": "financeiro.folha@email.com",
+    "email": "Boa tarde, recebi meu pagamento e notei que o valor das horas extras de maio está incorreto. Trabalhei 20 horas extras e foi pago o equivalente a 10. Podem revisar, por favor? Planilha de controle anexa. Grata, Sofia Santos.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Programação de Férias Coletivas",
+    "cc/cco": "rh@email.com",
+    "email": "Bom dia. Há alguma previsão para o anúncio das férias coletivas de final de ano? Preciso me programar com antecedência. Agradeço a informação. Atenciosamente, Bruno Gomes.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Falha no painel de controle do Torno CNC",
+    "cc/cco": "manutencao.eletronica@email.com",
+    "email": "O painel de controle do torno CNC-2 está travando e não responde aos comandos. Reiniciamos a máquina, mas o problema persiste, afetando a produção. Solicitamos suporte técnico. Att, Tiago Ribeiro.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Adiantamento da PLR",
+    "cc/cco": "rh@email.com",
+    "email": "Gostaria de saber se a empresa tem a política de adiantamento da PLR. Tenho um imprevisto financeiro e gostaria de avaliar essa possibilidade. Agradeço a atenção. Cordialmente, Gabriela Almeida.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Esqueci de bater o ponto na saída",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Prezados, ontem, 05/06/2025, acabei esquecendo de registrar meu ponto na saída. Meu horário de saída foi às 17:05. Peço que façam o ajuste manual. Desculpe pelo transtorno. Obrigado, Heitor Rocha.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Não recebi o adiantamento salarial",
+    "cc/cco": "financeiro@email.com",
+    "email": "Olá, verifiquei minha conta e o adiantamento salarial que deveria ter sido pago hoje não foi depositado. Houve algum problema geral? Aguardo retorno. Atenciosamente, Isabela Nogueira.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Alteração de Período de Férias",
+    "cc/cco": "gestor.area@email.com",
+    "email": "Boa tarde. Gostaria de verificar a possibilidade de alterar minhas férias, previamente agendadas para outubro, para a primeira quinzena de novembro por motivos pessoais. Fico no aguardo. Grata, Clara Mendes.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Máquina parou de funcionar - Empacotadora E-12",
+    "cc/cco": "supervisor.logistica@email.com",
+    "email": "A máquina empacotadora E-12 do setor de expedição parou completamente. A luz de emergência está acesa e não conseguimos religá-la. Precisamos de ajuda urgente para não atrasar as entregas. Att, Vinicius Azevedo.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Cálculo da PLR proporcional - Admissão recente",
+    "cc/cco": "rh.remuneracao@email.com",
+    "email": "Fui admitido em março deste ano e gostaria de entender como será feito o cálculo da minha PLR, se será proporcional ao tempo de casa. Podem me esclarecer? Obrigado, Leonardo Cardoso.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Justificativa de Atraso e Falta de Ponto",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Prezados, no dia 02/06/2025, cheguei atrasado por conta de um problema no transporte público e não consegui registrar a entrada. Segue atestado de ocorrência da companhia de metrô. Solicito a regularização. Atenciosamente, Manuela Pinto.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Desconto indevido no contracheque",
+    "cc/cco": "financeiro.folha@email.com",
+    "email": "Notei um desconto referente a 'contribuição sindical' no meu último holerite, mas eu não autorizei tal desconto. Solicito o estorno do valor. Agradeço a atenção. Cordialmente, Júlia Barbosa.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Dúvida sobre saldo de dias de férias",
+    "cc/cco": "",
+    "email": "Olá, poderiam me informar quantos dias de férias eu ainda tenho de saldo para gozo? Gostaria de planejar meu próximo descanso. Obrigado, Davi Moreira.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Esteira transportadora travada",
+    "cc/cco": "manutencao@email.com",
+    "email": "A esteira transportadora que alimenta a linha de montagem 2 está travada. Já tentamos o procedimento padrão de destravamento, sem sucesso. A produção está parada. Precisamos de suporte. Att, Sérgio Viana.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "PLR - Impacto de afastamento médico",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Estive afastado por 2 meses por licença médica. Gostaria de saber se esse período impactará no recebimento da minha PLR. Agradeço o esclarecimento. Atenciosamente, Rafael Teixeira.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Problema no relógio de ponto",
+    "cc/cco": "ti.suporte@email.com",
+    "email": "O relógio de ponto do acesso 3 não está reconhecendo minha digital. Tentei várias vezes hoje pela manhã, sem sucesso. Pedi para um colega reportar ao meu gestor. Podem verificar o equipamento? Grato, Felipe Sousa.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Pagamento de comissão em atraso",
+    "cc/cco": "financeiro@email.com",
+    "email": "Prezados, as comissões referentes às vendas do mês de abril ainda não foram pagas. O prazo era até o dia 20 de maio. Houve algum problema? Aguardo um posicionamento. Atenciosamente, Beatriz Farias.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Cancelamento de Férias",
+    "cc/cco": "gestor.area@email.com",
+    "email": "Bom dia. Por motivos de força maior, preciso solicitar o cancelamento das minhas férias agendadas para julho. Peço desculpas pelo transtorno e aguardo as orientações de como proceder. Grato, Lucas Martins.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Compressor de ar com baixa pressão",
+    "cc/cco": "manutencao@email.com",
+    "email": "O compressor de ar que abastece as ferramentas pneumáticas do setor de acabamento está com a pressão muito abaixo do normal, o que está afetando a qualidade do trabalho. Pedimos uma verificação. Att, Andre Santos.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Informações sobre a segunda parcela da PLR",
+    "cc/cco": "rh@email.com",
+    "email": "Olá, gostaria de obter informações sobre a previsão de pagamento e os critérios para a segunda parcela da PLR. Agradeço a transparência. Cordialmente, Livia Araujo.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Apontamento de horas em viagem a trabalho",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Estive em viagem a trabalho de 02/06 a 04/06 e não sei como fazer o apontamento correto dessas horas. Podem me orientar? Segue ordem de serviço da viagem. Obrigado, Caio Fernandes.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Erro no cálculo do adicional noturno",
+    "cc/cco": "financeiro.folha@email.com",
+    "email": "Verifiquei meu holerite e o valor pago como adicional noturno está incorreto, considerando os dias que trabalhei no terceiro turno. Solicito a revisão dos cálculos. Minha folha de ponto está correta. Grato, Daniel Correia.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Venda de 10 dias de férias",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Prezados, tenho interesse em vender 10 dias das minhas próximas férias. Qual é o procedimento para formalizar essa solicitação? Preciso fazer isso com qual antecedência? Atenciosamente, Mariana Rodrigues.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Máquina de corte a laser desalinhada",
+    "cc/cco": "manutencao.precisao@email.com",
+    "email": "A máquina de corte a laser está produzindo peças fora de especificação. Acreditamos que ela esteja desalinhada. Interrompemos o uso para evitar mais perdas de material. Solicitamos calibração. Att, Gustavo Dias.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Discordância com o valor da PLR",
+    "cc/cco": "rh.remuneracao@email.com",
+    "email": "Recebi o demonstrativo da PLR e não estou de acordo com o valor apresentado. Acredito que meu atingimento de metas foi maior do que o considerado. Gostaria de solicitar uma revisão. Posso apresentar meus relatórios. Grato, Eduardo Lima.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Sistema de ponto fora do ar",
+    "cc/cco": "ti.infra@email.com",
+    "email": "O sistema online para ajuste de ponto está fora do ar desde ontem. Tenho algumas correções para fazer e o prazo está acabando. Há previsão de retorno? Atenciosamente, Giovanna Ramos.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Abono salarial não foi pago",
+    "cc/cco": "financeiro@email.com",
+    "email": "Olá, o abono salarial negociado em acordo coletivo não foi incluído no pagamento deste mês. Houve algum erro? Solicito a verificação. Agradeço, Enzo Pereira.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Consulta sobre Férias Vencidas",
+    "cc/cco": "rh@email.com",
+    "email": "Bom dia, acredito que tenho um período de férias vencido. Poderiam confirmar essa informação e me orientar sobre os prazos para gozo? Agradeço a atenção. Cordialmente, Alice Ribeiro.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Fumaça estranha saindo do motor da esteira 5",
+    "cc/cco": "seguranca.trabalho@email.com; manutencao@email.com",
+    "email": "URGENTE: Está saindo uma fumaça com cheiro de queimado do motor principal da esteira 5. Desligamos a energia da área como precaução. Evacuamos o local. Solicitamos brigada e manutenção imediatamente. Att, Robson Matias.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "PLR para funcionários em licença-maternidade",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Atualmente estou em licença-maternidade. Gostaria de saber como fica o meu direito à PLR. O pagamento será feito normalmente? Agradeço o esclarecimento. Atenciosamente, Laura Azevedo.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Meu crachá não funcionou para bater o ponto",
+    "cc/cco": "rh.ponto@email.com; ti.suporte@email.com",
+    "email": "Hoje pela manhã, meu crachá de identificação não foi lido pelo relógio de ponto. Tentei nos acessos 1 e 2. Pedi ao meu gestor para ser testemunha. Preciso de um novo crachá ou é problema no sistema? Grata, Valentina Castro.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Reembolso de despesas de viagem não efetuado",
+    "cc/cco": "financeiro.contas@email.com",
+    "email": "Prezados, submeti meu relatório de despesas da viagem a Manaus há três semanas e o reembolso ainda não foi depositado na minha conta. O prazo informado era de 10 dias úteis. Podem verificar o status? Relatório #5892. Att, Igor Monteiro.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Pedido de adiantamento de 13º para juntar com férias",
+    "cc/cco": "rh@email.com",
+    "email": "Vou tirar férias em agosto e gostaria de solicitar o adiantamento da primeira parcela do 13º salário para receber junto com o pagamento das férias. Qual o procedimento para isso? Obrigada, Melissa Barros.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Painel elétrico desarmando - Linha de produção 4",
+    "cc/cco": "manutencao.eletrica@email.com",
+    "email": "O painel elétrico que alimenta a linha de produção 4 está desarmando constantemente, interrompendo o trabalho. Suspeitamos de sobrecarga ou curto-circuito. É necessária uma avaliação técnica com urgência. Atenciosamente, Arthur Rocha.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Dúvida sobre o indicador de absenteísmo na PLR",
+    "cc/cco": "rh.remuneracao@email.com",
+    "email": "Gostaria de entender melhor como o indicador de absenteísmo é calculado para fins de PLR. Atestados médicos impactam nesse cálculo? Agradeço a informação. Cordialmente, Heloísa Cunha.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Correção de apontamento de trabalho externo",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Na semana passada, estive em trabalho externo no cliente XYZ e registrei o ponto com o código errado. O correto seria '708 - Visita Técnica'. O sistema não me permite alterar. Podem fazer o ajuste para mim, por favor? Grato, Erick Santos.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Depósito do FGTS não localizado",
+    "cc/cco": "rh.folha@email.com",
+    "email": "Consultei meu extrato do FGTS e não encontrei o depósito referente ao mês de abril/2025. Houve algum problema com o recolhimento? Podem verificar e me dar um retorno? Agradeço, Nicole Fernandes.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Negociação de Férias - Período Incompleto",
+    "cc/cco": "gestor.area@email.com",
+    "email": "Olá. Completei meu período aquisitivo de férias e gostaria de negociar com meu gestor para tirá-las em dois períodos de 15 dias. Isso é permitido pela política da empresa? Atenciosamente, Miguel Souza.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Vazamento de ar comprimido na linha 1",
+    "cc/cco": "manutencao@email.com",
+    "email": "Estamos com um vazamento significativo de ar comprimido na tubulação que abastece a linha de montagem 1. O ruído é alto e há perda de pressão nas ferramentas. Solicitamos reparo. Att, Samuel Ribeiro.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Previsão de divulgação dos resultados para PLR",
+    "cc/cco": "comunicacao.interna@email.com",
+    "email": "Bom dia! Já temos uma data para a divulgação oficial dos resultados do semestre e do consequente fator de cálculo da PLR? A equipe está ansiosa. Obrigado, Yasmin Gomes.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Ajuste de ponto - Saída antecipada com autorização",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Prezados, na última sexta-feira, precisei sair 1 hora mais cedo por um motivo pessoal e meu gestor autorizou. Como devo proceder para que essa hora não seja descontada? Devo apresentar algum formulário? Grata, Sarah Carvalho.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Pagamento incorreto do vale-transporte",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "O valor creditado no meu cartão de vale-transporte este mês veio menor do que o usual, e não será suficiente para cobrir meus deslocamentos. Meu endereço não mudou. Podem verificar o que aconteceu? Atenciosamente, Benjamin Almeida.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Formalização de Férias - Equipe de TI",
+    "cc/cco": "gestor.ti@email.com",
+    "email": "Conforme combinado com a gestão, estou formalizando meu pedido de férias para o período de 15/10/2025 a 13/11/2025. Aguardo o recebimento do aviso de férias. Obrigado, Matheus Pinto.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Robô de solda com movimentos imprecisos",
+    "cc/cco": "manutencao.automacao@email.com",
+    "email": "O robô de solda KUKA KR-16 está com os movimentos imprecisos, depositando a solda fora do local correto. Já tentamos recalibrar pelo modo manual, sem sucesso. Necessitamos de um especialista em automação. Att, Wellington Costa.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "PLR e imposto de renda",
+    "cc/cco": "rh.folha@email.com",
+    "email": "Gostaria de confirmar qual é a alíquota de imposto de renda que incide sobre o pagamento da PLR. A tributação é exclusiva na fonte ou se junta aos outros rendimentos? Agradeço o esclarecimento. Cordialmente, Emanuelly Martins.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Marcação de Ponto em Home Office",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Olá, estou trabalhando em home office hoje, conforme acordo com meu líder. Como devo fazer a marcação de ponto? Pelo portal do colaborador? Não encontrei a opção. Grata, Agatha Moreira.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Valor do vale-refeição creditado errado",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Boa tarde, o crédito no meu cartão de vale-refeição veio com o valor de R$ 200,00 a menos este mês. Houve alguma mudança na política ou foi um erro pontual? Solicito a correção. Obrigado, Davi Lucca Ferreira.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Planejamento de Férias 2026",
+    "cc/cco": "gestor.area@email.com",
+    "email": "Prezados, sei que ainda está longe, mas para fins de planejamento de uma viagem longa, gostaria de saber se já é possível pré-agendar minhas férias para janeiro de 2026. Agradeço a flexibilidade. Atenciosamente, Isabelle Lima.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Forno de tratamento térmico não atinge temperatura",
+    "cc/cco": "manutencao@email.com",
+    "email": "O forno de tratamento térmico F-300 não está conseguindo atingir a temperatura programada, o que compromete o processo de têmpera das peças. A resistência pode estar com problema. Pedimos uma avaliação. Att, Francisco Rocha.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Comunicação sobre o pagamento da PLR",
+    "cc/cco": "diretoria@email.com",
+    "email": "Solicitamos, em nome de diversos colaboradores, que a comunicação sobre os valores e datas de pagamento da PLR seja feita com mais antecedência para que possamos nos planejar financeiramente. Agradecemos a compreensão. Atenciosamente, Comissão de Funcionários.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Esquecimento de registro de entrada",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Hoje, na correria, esqueci de registrar minha entrada às 07:30. Meu gestor, Sr. Ricardo, está ciente e pode confirmar. Peço que o ajuste seja feito para evitar problemas no fechamento do mês. Obrigado, Lorenzo Dias.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Problema com o pagamento das férias",
+    "cc/cco": "financeiro.folha@email.com",
+    "email": "Entrei de férias na segunda-feira, mas o pagamento correspondente, que deveria ter sido feito dois dias antes, ainda não caiu na minha conta. Podem verificar o que houve com urgência? Preciso do dinheiro para a minha viagem. Grata, Cecília Oliveira.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Acúmulo de Férias",
+    "cc/cco": "rh@email.com",
+    "email": "Bom dia. Gostaria de saber se a política da empresa permite o acúmulo de mais de um período de férias. Tenho um período vencendo e gostaria de juntar com o próximo. É possível? Cordialmente, Pedro Henrique Nogueira.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Alarme sonoro da injetora I-15 não para",
+    "cc/cco": "seguranca.trabalho@email.com; manutencao@email.com",
+    "email": "O alarme sonoro da injetora de plástico I-15 está disparado continuamente, mesmo com a máquina parada. O barulho é ensurdecedor e está atrapalhando todo o setor. Não conseguimos desligá-lo. Pedimos ajuda. Att, Anthony Viana.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Critérios de desempate para metas da PLR",
+    "cc/cco": "rh.remuneracao@email.com",
+    "email": "Gostaria de saber quais são os critérios de desempate caso duas equipes atinjam exatamente o mesmo percentual de metas para a PLR. A avaliação individual tem peso nesse caso? Obrigado, Ryan Mendes.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Horas extras não apontadas no sistema",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Fiz 4 horas extras no último sábado, conforme autorizado, mas essas horas não aparecem no meu espelho de ponto online. A autorização foi enviada pelo meu supervisor. Podem adicionar manualmente? Grato, Bernardo Castro.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Salário família não foi pago",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Entreguei a certidão de nascimento do meu filho no mês passado, mas o salário família não foi incluído no pagamento deste mês. Houve tempo hábil para o cadastro? Solicito a verificação. Atenciosamente, Sophia Gomes.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Interrupção de Férias",
+    "cc/cco": "gestor.area@email.com; rh@email.com",
+    "email": "Prezados, sei que não é o ideal, mas devido a um projeto crítico, meu gestor pediu que eu interrompesse minhas férias por dois dias. Gostaria de saber como isso será tratado em termos de compensação e remarcação dos dias restantes. Grato, Théo Carvalho.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Superaquecimento na unidade hidráulica",
+    "cc/cco": "manutencao@email.com",
+    "email": "A unidade hidráulica que serve a prensa P-100 está superaquecendo e já atingiu o limite de temperatura, causando o desligamento automático. Suspeitamos de problema no trocador de calor. A produção está parada. Att, Isaac Farias.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Dúvida sobre base de cálculo da PLR",
+    "cc/cco": "rh.folha@email.com",
+    "email": "A base de cálculo para a PLR é o salário nominal ou inclui a média de outras verbas, como adicional noturno e horas extras? Gostaria de entender essa composição. Obrigado, Mirella Barbosa.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Abono de falta por motivo de doação de sangue",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Faltei ontem para doar sangue e apresentei o atestado ao RH hoje pela manhã. Gostaria de confirmar se a falta será abonada e não haverá desconto no meu pagamento. Agradeço a confirmação. Atenciosamente, Levi Ferreira.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Pagamento de bônus por meta não realizado",
+    "cc/cco": "financeiro.remuneracao@email.com",
+    "email": "Minha equipe atingiu a meta de produção do trimestre passado, que previa o pagamento de um bônus. No entanto, o valor não foi creditado junto com o salário deste mês. Podem verificar o que ocorreu? Grato, Breno Araujo.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Solicitação de Férias - Cobertura de colega",
+    "cc/cco": "colega.trabalho@email.com; gestor.area@email.com",
+    "email": "Olá, estou solicitando minhas férias para a segunda quinzena de novembro. Já combinei com meu colega, João da Silva, que ficará responsável por cobrir minhas atividades durante esse período. Ele está em cópia. Aguardo aprovação. Grata, Alana Souza.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Correia da máquina de embalagem rompeu",
+    "cc/cco": "manutencao.mecanica@email.com",
+    "email": "A correia principal da máquina de embalagem 'Flow Pack' se rompeu. Temos uma correia sobressalente no estoque, mas precisamos da equipe de manutenção mecânica para efetuar a troca de forma segura. Att, Cauã Martins.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "PLR para funcionários de empresa adquirida",
+    "cc/cco": "rh.integracao@email.com",
+    "email": "Vim da empresa que foi recentemente adquirida pelo grupo. Gostaria de saber se teremos direito à PLR nos mesmos moldes dos funcionários antigos ou se haverá uma regra de transição. Atenciosamente, Estevan Ribeiro.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Justificativa de falta por consulta médica",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Estou enviando em anexo o atestado da minha consulta médica de ontem, que durou o período da manhã. Peço que façam o abono das horas correspondentes. Obrigado, Rebeca Lima.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Erro na data de pagamento do salário",
+    "cc/cco": "financeiro.tesouraria@email.com",
+    "email": "Prezados, o pagamento do meu salário, que normalmente ocorre no 5º dia útil, ainda não foi creditado. Consultei outros colegas e eles receberam normalmente. Pode ter havido algum problema específico com meus dados bancários? Att, Kaique Costa.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Escala de Férias do Setor",
+    "cc/cco": "gestor.setor@email.com",
+    "email": "Gostaria de ter acesso à escala de férias do nosso setor para que eu possa me programar sem coincidir com a ausência de outros membros chave da equipe. Onde posso consultar essa informação? Grato, Ian Rocha.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Sensor de presença da porta automática falhando",
+    "cc/cco": "manutencao.predial@email.com",
+    "email": "O sensor de presença da porta automática de segurança da linha 7 não está funcionando corretamente. Às vezes, a porta não abre, prendendo os funcionários, e às vezes não fecha, o que é um risco. Solicitamos reparo imediato. Att, Yuri Dias.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Divulgação das metas de PLR para o próximo ciclo",
+    "cc/cco": "planejamento.estrategico@email.com",
+    "email": "Já existe uma previsão para a divulgação das novas metas que irão compor o cálculo da PLR do próximo ciclo? Gostaríamos de conhecê-las o quanto antes para alinhar nossos esforços. Atenciosamente, Equipe de Projetos.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Problema para registrar o ponto remotamente",
+    "cc/cco": "ti.suporte@email.com",
+    "email": "Estou tentando registrar meu ponto pelo aplicativo do celular, mas ele apresenta uma mensagem de 'erro de geolocalização', embora eu esteja em casa. Podem verificar se há algum problema com o app? Grata, Lorena Oliveira.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Não recebi o reembolso de quilometragem",
+    "cc/cco": "financeiro.contas@email.com",
+    "email": "Enviei o relatório de quilometragem por uso de veículo próprio a serviço da empresa no início do mês e o reembolso não foi pago. O relatório foi aprovado pelo meu gestor. Podem verificar o status? Obrigado, Otávio Pereira.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Dúvida sobre pagamento do terço de férias",
+    "cc/cco": "rh.folha@email.com",
+    "email": "Olá. O pagamento do terço de férias é feito com base no salário bruto ou líquido? Gostaria de entender o cálculo antes de receber. Agradeço, Lara Nogueira.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Máquina de solda por ultrassom inoperante",
+    "cc/cco": "manutencao.eletronica@email.com",
+    "email": "Nossa máquina de solda por ultrassom, essencial para a montagem de componentes plásticos, está completamente inoperante. O display está apagado e não dá sinal de vida. Pedimos suporte técnico. Att, Noah Castro.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Política de PLR para estagiários",
+    "cc/cco": "rh.estagio@email.com",
+    "email": "Gostaria de saber se o programa de estágio contempla o pagamento de PLR ou algum tipo de bônus por desempenho. Agradeço a informação. Cordialmente, Maria Júlia Gomes.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Esquecimento de registro de ponto na volta do almoço",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Prezados, hoje acabei esquecendo de bater o ponto quando retornei do meu horário de almoço, às 13:00. Peço desculpas pela falha e solicito o ajuste manual. Obrigado, Benício Carvalho.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Desconto de farmácia incorreto",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Veio um desconto de convênio de farmácia no meu holerite, mas não utilizei esse benefício no último mês. Acredito que seja um erro. Podem verificar e providenciar o estorno? Grato, Bryan Farias.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Solicitação de férias para casamento",
+    "cc/cco": "rh@email.com",
+    "email": "Boa tarde, vou me casar em dezembro e gostaria de emendar minhas férias com a licença-gala. O período total seria de 01/12/2025 a 03/01/2026. Isso é possível? Agradeço a orientação. Atenciosamente, Eloá Barbosa.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Bomba d'água do sistema de refrigeração queimou",
+    "cc/cco": "manutencao@email.com",
+    "email": "A bomba d'água principal do sistema de refrigeração das injetoras queimou. O sistema de backup não está dando conta e as máquinas estão aquecendo. Risco de parada geral. Precisamos de reparo imediato. Att, Luiz Miguel Araujo.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Apresentação dos Resultados da PLR",
+    "cc/cco": "diretoria@email.com",
+    "email": "Sugerimos que seja feita uma apresentação geral para todos os funcionários sobre os resultados alcançados pela empresa e como eles se refletiram no cálculo final da PLR. Acreditamos que isso aumentaria o engajamento. Atenciosamente, Representantes de Área.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Duplicidade no registro de ponto",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "O sistema registrou minha entrada duas vezes hoje de manhã, com um minuto de diferença. Gostaria que uma das marcações fosse removida para evitar problemas no cálculo das horas. A correta é a das 08:02. Grato, Davi Lucas Souza.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Pagamento de periculosidade não realizado",
+    "cc/cco": "seguranca.trabalho@email.com; rh.folha@email.com",
+    "email": "Fui transferido para um setor que, segundo o laudo da segurança do trabalho, tem direito ao adicional de periculosidade. No entanto, o adicional não foi incluído no meu pagamento este mês. Podem verificar a situação? Att, Anthony Gabriel Martins.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Possibilidade de tirar férias antes de completar o período",
+    "cc/cco": "rh@email.com",
+    "email": "Olá. Terei um compromisso inadiável no exterior e gostaria de saber se a empresa permite tirar férias antes de completar os 12 meses do período aquisitivo. Faltam 2 meses para eu completar o período. Agradeço a atenção. Cordialmente, Ana Clara Ribeiro.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "CLP da embaladora desprogramado",
+    "cc/cco": "manutencao.automacao@email.com",
+    "email": "O CLP (Controlador Lógico Programável) da embaladora automática parece ter perdido a programação. A máquina não executa a sequência correta de movimentos. Precisamos que um programador venha restaurar o programa. Att, Henrique Lima.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Impacto da avaliação de desempenho na PLR",
+    "cc/cco": "rh.remuneracao@email.com",
+    "email": "Gostaria de entender qual o peso da avaliação de desempenho individual no cálculo final da PLR. É um multiplicador? Existe um teto? Agradeço se puderem detalhar. Atenciosamente, Maria Alice Costa.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Apontamento de banco de horas",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "As horas extras que fiz no mês passado deveriam ir para o banco de horas, mas foram pagas no holerite. Houve uma falha na comunicação? Solicito que as futuras horas extras sejam alocadas no banco, conforme combinado com meu gestor. Grata, Clarice Rocha.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Adiantamento de salário não depositado",
+    "cc/cco": "financeiro.tesouraria@email.com",
+    "email": "Solicitei um adiantamento de salário na semana passada, que foi aprovado pelo RH, mas o valor não foi depositado na data combinada. Poderiam verificar o que aconteceu? Tenho urgência. Obrigado, Vicente Dias.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Férias proporcionais - Pedido de demissão",
+    "cc/cco": "rh.rescisao@email.com",
+    "email": "Estou cumprindo meu aviso prévio e gostaria de confirmar se o pagamento das minhas férias proporcionais será feito junto com a rescisão. Qual a base de cálculo? Agradeço, Luiza Castro.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Falha no sistema de exaustão",
+    "cc/cco": "seguranca.trabalho@email.com",
+    "email": "O sistema de exaustão do setor de pintura está com a eficiência muito baixa, deixando o ambiente com forte cheiro de solvente. Isso representa um risco à saúde. Solicitamos uma verificação e manutenção urgentes. Att, Samuel Gomes.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Dúvida sobre o pagamento da PLR para afastados pelo INSS",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Meu colega de setor está afastado pelo INSS há 5 meses. Ele me pediu para perguntar se ele terá direito ao pagamento da PLR ou se há alguma regra específica para esses casos. Obrigado, Felipe Nogueira.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Registro de Ponto em Treinamento Externo",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Participei de um treinamento externo durante toda a semana passada, das 9h às 18h. Como devo fazer para registrar esses dias e horas no sistema de ponto? Preciso de algum código específico? Atenciosamente, Rayssa Mendes.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "INSS descontado a mais",
+    "cc/cco": "financeiro.folha@email.com",
+    "email": "Ao conferir meu holerite, percebi que o valor descontado para o INSS foi superior ao teto máximo de contribuição. Acredito que houve um erro de cálculo e solicito a correção e o estorno do valor. Grato, Enzo Gabriel Viana.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Confirmação de agendamento de férias",
+    "cc/cco": "rh@email.com",
+    "email": "Olá, fiz a solicitação das minhas férias pelo portal do funcionário há duas semanas, mas ainda não recebi nenhuma confirmação. O status continua como 'pendente'. Poderiam verificar se há algum problema? Período solicitado: 01 a 30 de setembro. Grata, Isadora Barros.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Peça presa na fresadora CNC",
+    "cc/cco": "manutencao.mecanica@email.com",
+    "email": "Uma peça de alumínio ficou presa no mandril da fresadora CNC-04 e não conseguimos remover com os procedimentos de segurança. A máquina está parada e com alarme de colisão ativo. Precisamos de ajuda. Att, Joaquim Azevedo.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "PLR para quem pediu demissão",
+    "cc/cco": "rh.rescisao@email.com",
+    "email": "Pedi demissão em abril deste ano. Gostaria de saber se terei direito ao pagamento da PLR proporcional aos meses que trabalhei. Quais são as regras da empresa para essa situação? Agradeço, Lavínia Monteiro.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Ponto Eletrônico não imprimiu comprovante",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Ao registrar minha saída hoje, o relógio de ponto processou a marcação mas não imprimiu o comprovante. Como posso ter certeza de que o registro foi efetuado com sucesso? Atenciosamente, Elisa Cunha.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Reembolso de curso não pago",
+    "cc/cco": "financeiro.contas@email.com",
+    "email": "Prezados, o reembolso do curso de especialização que foi aprovado pela diretoria não foi pago na data combinada. Já se passaram 15 dias do prazo. Podem me dar um posicionamento? Grato, Henry Santos.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Dúvida sobre o cálculo do pagamento de férias",
+    "cc/cco": "rh.folha@email.com",
+    "email": "Vou sair de férias no próximo mês e gostaria de receber uma prévia do cálculo do valor que irei receber, incluindo o terço constitucional e eventuais médias. É possível? Obrigado, Francisco Cardoso.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Guilhotina com corte impreciso",
+    "cc/cco": "manutencao.precisao@email.com",
+    "email": "A guilhotina do setor de corte está deixando rebarbas e fazendo cortes imprecisos, gerando perda de material. Provavelmente a lâmina precisa ser afiada ou trocada. Solicitamos uma verificação. Att, Calebe Almeida.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Acesso ao demonstrativo da PLR",
+    "cc/cco": "ti.suporte@email.com",
+    "email": "Não estou conseguindo acessar o portal do colaborador para visualizar meu demonstrativo de cálculo da PLR. A página apresenta erro 404. Podem me ajudar? Outros colegas também estão com o mesmo problema. Grata, Isis Pinto.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Ajuste de ponto - esquecimento geral",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Prezados, ontem, dia 05/06, eu simplesmente esqueci de registrar qualquer ponto, tanto na entrada, quanto no almoço e na saída. Peço mil desculpas pela falha. Meus horários foram: 08:00-12:00 e 13:00-17:00. Meu gestor está ciente. Obrigado, Gael Rocha.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Problema no pagamento de rescisão",
+    "cc/cco": "rh.rescisao@email.com",
+    "email": "Fui desligado da empresa na semana passada e recebi o pagamento da minha rescisão hoje. No entanto, o valor veio incorreto, faltando o pagamento do aviso prévio indenizado. Solicito a revisão e o pagamento da diferença. Atenciosamente, Murilo Barbosa.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Férias e licença-paternidade",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Meu filho irá nascer no meio do meu período de férias já agendado. Gostaria de saber se posso 'pausar' as férias para usufruir da licença-paternidade e depois retomar os dias restantes. Como funciona? Grato, Erick Farias.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Vibração excessiva no moinho de plástico",
+    "cc/cco": "manutencao.mecanica@email.com",
+    "email": "O moinho de plástico do setor de reciclagem está com uma vibração excessiva e fazendo muito barulho, parece que algo está desbalanceado. Paramos a operação por segurança. Solicitamos uma inspeção. Att, Leandro Gomes.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Metas da PLR - Esclarecimento de indicador",
+    "cc/cco": "rh.remuneracao@email.com",
+    "email": "No documento de metas da PLR, consta o indicador 'Eficiência Operacional'. Gostaria de uma definição mais clara sobre como esse indicador é medido e quais são as variáveis que o compõem. Agradeço, Lucca Teixeira.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Não consigo acessar o sistema de ponto",
+    "cc/cco": "ti.suporte@email.com",
+    "email": "Desde hoje de manhã não consigo fazer login no sistema de ponto online. A página fica carregando infinitamente. Preciso fazer um ajuste urgente. Podem verificar o que está acontecendo com o sistema? Grata, Ana Luiza Araujo.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Auxílio creche não foi pago",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Enviei toda a documentação para o auxílio creche no mês passado e ele não foi incluído no pagamento deste mês. Podem verificar se faltou algo ou se houve algum erro no processamento? Atenciosamente, Liz Correia.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Remarcação de Férias devido a cancelamento de voo",
+    "cc/cco": "gestor.area@email.com",
+    "email": "Prezados, minhas férias estavam marcadas para a próxima semana, mas meu voo internacional foi cancelado pela companhia aérea. Gostaria de verificar a possibilidade de adiá-las em uma semana, para não perder a viagem. Att, Davi Luiz Costa.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Cheiro de gás perto do forno F-100",
+    "cc/cco": "seguranca.trabalho@email.com; brigada@email.com",
+    "email": "ALERTA DE SEGURANÇA: Estamos sentindo um forte cheiro de gás nas proximidades do forno de tratamento térmico F-100. Já fechamos o registro geral de gás da área e estamos evacuando o pessoal. Solicitamos a presença da brigada e da manutenção imediatamente. Att, Marcelo Dias.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Revisão do meu resultado individual na PLR",
+    "cc/cco": "gestor.area@email.com; rh.remuneracao@email.com",
+    "email": "Recebi meu demonstrativo da PLR e gostaria de solicitar uma revisão da minha avaliação de desempenho, que impactou o resultado final. Acredito que algumas metas que atingi não foram consideradas. Posso agendar uma reunião para discutir? Grata, Maria Cecília Oliveira.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Ajuste de Ponto - Atestado de Acompanhante",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Estou enviando em anexo o atestado de acompanhante referente à consulta médica do meu filho ontem. Estive ausente por 4 horas. Peço que façam o abono das horas, conforme política da empresa. Obrigado, Paulo Henrique Souza.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Pagamento de férias com valor errado",
+    "cc/cco": "financeiro.folha@email.com",
+    "email": "Recebi o pagamento das minhas férias e notei que a média de horas extras não foi incluída no cálculo, resultando em um valor menor. Podem recalcular e pagar a diferença, por favor? Grato, José Miguel Ribeiro.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Férias - Período Aquisitivo",
+    "cc/cco": "rh@email.com",
+    "email": "Fui admitido em 10/07/2024. Gostaria de confirmar a partir de qual data eu já posso solicitar a marcação das minhas primeiras férias. Agradeço a informação. Atenciosamente, João Guilherme Martins.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Esteira rolante parou de repente",
+    "cc/cco": "manutencao@email.com",
+    "email": "A esteira rolante que transporta caixas para a expedição parou de funcionar de repente. Não há nenhum alarme aceso, ela simplesmente desligou. Isso está causando um grande acúmulo de material. Precisamos de suporte. Att, Igor Rocha.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "PLR e dissídio coletivo",
+    "cc/cco": "rh.folha@email.com",
+    "email": "O dissídio da nossa categoria foi fechado após o pagamento da primeira parcela da PLR. Haverá um recálculo da PLR para incluir o reajuste salarial retroativo na base de cálculo? Grato, Heitor Pereira.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Esqueci a senha do portal de ponto",
+    "cc/cco": "ti.suporte@email.com",
+    "email": "Esqueci minha senha de acesso ao portal do colaborador e não estou conseguindo redefini-la pelo link 'Esqueci minha senha'. Podem me ajudar a resetar meu acesso para que eu possa justificar uma falta? Atenciosamente, Maria Eduarda Lima.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Diferença no pagamento do 13º salário",
+    "cc/cco": "financeiro.folha@email.com",
+    "email": "Recebi a segunda parcela do 13º salário e o valor veio menor do que eu esperava. Acredito que as médias de comissões não foram consideradas corretamente. Podem verificar os cálculos, por favor? Grata, Ana Sophia Costa.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Conversão de um terço de férias em dinheiro",
+    "cc/cco": "rh@email.com",
+    "email": "Olá, eu gostaria de saber se é possível converter 1/3 das minhas férias em abono pecuniário. Qual o prazo para fazer essa solicitação? Atenciosamente, Lucas Gabriel Dias.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Problema no sistema pneumático da montagem",
+    "cc/cco": "manutencao@email.com",
+    "email": "O sistema pneumático da linha de montagem 3 está com perda de pressão, fazendo com que as parafusadeiras não funcionem direito. Já verificamos por vazamentos e não encontramos. Att, Nicolas Azevedo.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Sugestão para metas da PLR",
+    "cc/cco": "diretoria@email.com",
+    "email": "Gostaríamos de sugerir que, para o próximo ciclo, as metas da PLR incluam indicadores de sustentabilidade e redução de desperdício. Acreditamos que isso alinharia ainda mais a equipe com os valores da empresa. Att, Comissão de Sustentabilidade.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Marcação de Ponto Incorreta pelo sistema",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "O sistema registrou minha saída de hoje às 16:00, mas eu ainda estou na empresa trabalhando. Houve algum tipo de falha? Como devo proceder para corrigir? Grata, Heloísa Monteiro.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Problema com os dados bancários para pagamento",
+    "cc/cco": "financeiro.tesouraria@email.com",
+    "email": "Recebi um comunicado do banco de que a transferência do meu salário foi devolvida. Acredito que minha conta tenha sido alterada devido à fusão de agências. Estou enviando os novos dados para atualização. Peço urgência no repasse do pagamento. Att, Lorenzo Cunha.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Confirmação de Férias - Débora Almeida",
+    "cc/cco": "rh@email.com",
+    "email": "Boa tarde, apenas para confirmar, minhas férias estão agendadas e aprovadas para 01/02/2026 a 02/03/2026, correto? Gostaria de deixar tudo organizado. Obrigada, Débora Almeida.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Máquina de tampografia não aplica tinta",
+    "cc/cco": "manutencao.mecanica@email.com",
+    "email": "A máquina de tampografia, usada para imprimir logos nas peças, não está aplicando a tinta corretamente. O clichê desce, mas a tinta não adere à peça. Já limpamos tudo, mas não resolveu. Att, Enzo Gabriel.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "PLR - pagamento em conta diferente",
+    "cc/cco": "rh.folha@email.com",
+    "email": "Gostaria de saber se o pagamento da PLR pode ser feito em uma conta bancária diferente da que eu recebo meu salário. Tenho uma conta em outro banco que gostaria de usar para isso. É possível? Grato, Rafael Martins.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Atestado médico - abono de falta",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Estou enviando o atestado médico de 2 dias (CID A09) para justificar minha ausência nos dias 04 e 05/06. Peço que a falta seja abonada. Atenciosamente, Clara Gomes.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Pagamento de prêmio por sugestão não realizado",
+    "cc/cco": "financeiro.remuneracao@email.com",
+    "email": "Minha sugestão de melhoria no processo de embalagem foi aprovada e implementada, e segundo o programa de ideias, eu deveria receber um prêmio. O prêmio não foi pago junto com o salário. Podem verificar? Sugestão #112. Grata, Isabelly Nogueira.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Venda de férias - prazo para solicitação",
+    "cc/cco": "rh@email.com",
+    "email": "Perdi o prazo para solicitar a venda de 10 dias de férias. Ainda há alguma possibilidade de fazer essa solicitação ou preciso aguardar o próximo período? Agradeço, Arthur Ferreira.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Excesso de ruído no redutor da esteira 2",
+    "cc/cco": "manutencao@email.com",
+    "email": "O redutor de velocidade da esteira 2 está com um ruído metálico muito alto, que piora com a carga. Suspeitamos de problemas nos rolamentos. É um ruído anormal. Solicitamos uma inspeção. Att, Vinicius Lima.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Pagamento da PLR para demitidos por justa causa",
+    "cc/cco": "rh.juridico@email.com",
+    "email": "Um ex-funcionário que foi demitido por justa causa está questionando sobre o direito à PLR proporcional. Qual é o procedimento e o embasamento legal da empresa para esses casos? Pergunta para fins de orientação. Grato, Supervisor de Produção.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Ponto registrado em local incorreto",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Estou em viagem na filial de Curitiba, mas ao registrar o ponto pelo celular, o sistema acusou minha localização em São Paulo. Pode ser um erro do GPS. Meu gestor está ciente de que estou aqui. Como corrigir? Grato, Felipe Rocha.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Estorno de desconto de vale-transporte não utilizado",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Estive de férias durante todo o mês de maio e o desconto do vale-transporte foi feito integralmente no meu pagamento. Solicito o estorno do valor, já que o benefício não foi utilizado. Agradeço, Manuela Dias.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Gozo de férias prêmio",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Completei 10 anos de empresa e gostaria de saber como funciona a política de férias-prêmio. Tenho direito a dias adicionais? Como faço para solicitá-los? Grata, Gabriela Costa.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Falha no sistema de segurança da prensa",
+    "cc/cco": "seguranca.trabalho@email.com",
+    "email": "A cortina de luz da prensa P-20, que é um item de segurança essencial, está falhando. Às vezes ela não detecta a presença e permite o acionamento, o que é um risco gravíssimo de acidente. A máquina foi interditada. URGENTE. Att, Carlos Eduardo.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Disponibilização de informe de rendimentos da PLR",
+    "cc/cco": "rh.folha@email.com",
+    "email": "Para fins de declaração do imposto de renda, quando o informe de rendimentos específico do pagamento da PLR estará disponível? Ele virá separado do informe de rendimentos do salário? Obrigado, Daniel Oliveira.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Horas de treinamento não computadas",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Participei de um treinamento online obrigatório no último sábado, das 8h às 12h. Essas horas deveriam entrar no meu banco de horas, mas não foram computadas. Segue o certificado de conclusão. Grato, André Pereira.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Depósito de salário em conta errada",
+    "cc/cco": "financeiro.tesouraria@email.com",
+    "email": "Meu salário não caiu na minha conta. Ao conversar com o RH, descobri que ele foi depositado na minha conta antiga, que já foi encerrada. Preciso que o valor seja estornado e depositado na conta correta com urgência. Dados seguem em anexo. Grata, Bianca Santos.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Agendamento de férias para parente doente",
+    "cc/cco": "gestor.area@email.com",
+    "email": "Prezados, devido a um problema de saúde grave com um familiar, preciso solicitar minhas férias de forma emergencial a partir de amanhã. Sei que o prazo é curto, mas a situação é crítica. Agradeço a compreensão. Att, Vitória Farias.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Tela do IHM da injetora trincada",
+    "cc/cco": "manutencao.eletronica@email.com",
+    "email": "A tela touchscreen da IHM (Interface Homem-Máquina) da injetora I-08 está trincada e não responde ao toque em algumas áreas, dificultando a programação da máquina. É possível trocar apenas a tela? Att, Leonardo Araujo.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Transparência nos cálculos da PLR",
+    "cc/cco": "rh@email.com",
+    "email": "Gostaríamos de solicitar que o cálculo da PLR seja mais transparente, com um detalhamento claro de como se chegou ao resultado de cada meta e ao fator final. Muitos funcionários ficam com dúvidas. Att, Grupo de Colaboradores.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Convocação para ser mesário - abono de falta",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Fui convocado para trabalhar como mesário nas eleições no próximo domingo. Sei que tenho direito a dias de folga. Como devo proceder para registrar essa ausência e garantir o abono? Devo apresentar a convocação? Grato, Caio Carvalho.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Erro no pagamento de adicional de insalubridade",
+    "cc/cco": "seguranca.trabalho@email.com; rh.folha@email.com",
+    "email": "O laudo de insalubridade do meu setor foi atualizado de grau médio para máximo, mas o valor do adicional no meu pagamento ainda veio com o percentual antigo. Solicito o recálculo e o pagamento retroativo da diferença. Att, Davi Lucca Gomes.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Dúvidas sobre a escala de férias do fim de ano",
+    "cc/cco": "gestor.area@email.com",
+    "email": "Como será a escala de férias para o período de Natal e Ano Novo? Haverá um rodízio? Preciso saber para poder comprar passagens. Grato, Bruno Castro.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Sistema de lubrificação automática com falha",
+    "cc/cco": "manutencao.mecanica@email.com",
+    "email": "O sistema de lubrificação automática do centro de usinagem U-01 não está funcionando, o alarme de 'falha de lubrificação' está ativo. Não podemos operar a máquina nessas condições para não danificá-la. Att, Luiz Felipe Barbosa.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "PLR - meta de redução de custos",
+    "cc/cco": "controladoria@email.com",
+    "email": "Gostaria de saber onde posso acompanhar o resultado da meta de redução de custos, que é um dos indicadores da PLR. Essa informação é pública? Atenciosamente, Letícia Pinto.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Ajuste de ponto - participação em CIPA",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Participei da reunião mensal da CIPA hoje de manhã, das 10h às 11h. Como devo registrar essa hora para que não seja considerada como ausência do meu posto de trabalho? Obrigado, Gustavo Ferreira.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Pagamento de pensão alimentícia descontado a maior",
+    "cc/cco": "financeiro.folha@email.com",
+    "email": "O valor descontado no meu holerite para pagamento de pensão alimentícia veio maior do que o determinado no ofício judicial. Solicito a verificação e o estorno do valor excedente. O ofício está arquivado no RH. Grato, Miguel Santos.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Solicitação de férias para intercâmbio",
+    "cc/cco": "rh@email.com; gestor.area@email.com",
+    "email": "Fui aprovado para um curso de intercâmbio de 30 dias na Irlanda. Gostaria de solicitar minhas férias para este período, de 01 a 30 de outubro. Já conversei previamente com meu gestor. Agradeço, Matheus Correia.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Cabo de energia da lixadeira rompido",
+    "cc/cco": "manutencao.eletrica@email.com",
+    "email": "O cabo de energia da lixadeira industrial L-05 se rompeu, expondo os fios. A ferramenta foi isolada e retirada de uso para evitar choque elétrico. Precisamos que o cabo seja trocado. Att, Ryan Azevedo.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Pagamento da PLR para quem está em período de experiência",
+    "cc/cco": "rh@email.com",
+    "email": "Estou em contrato de experiência. Terei direito ao pagamento da PLR que será feito no próximo mês? Ou apenas após a efetivação? Agradeço o esclarecimento. Cordialmente, Yasmin Barros.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Falta por motivo de falecimento de familiar",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Infelizmente, meu avô faleceu e precisei me ausentar ontem. Estou enviando a certidão de óbito para justificar a falta, conforme a licença-nojo prevista em lei. Agradeço a compreensão. Att, Maria Clara Monteiro.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Desconto de empréstimo consignado não efetuado",
+    "cc/cco": "financeiro.folha@email.com",
+    "email": "A parcela do meu empréstimo consignado não foi descontada do meu salário este mês. Entrei em contato com o banco e eles informaram que a empresa não fez o repasse. Podem verificar para evitar que meu nome seja negativado? Grato, Benício Cunha.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Documentação para férias",
+    "cc/cco": "rh.docs@email.com",
+    "email": "Recebi o aviso de férias, mas não o recibo para assinar. Quando este documento será enviado? Preciso me organizar. Obrigado, João Miguel Almeida.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Filtro de ar da cabine de pintura entupido",
+    "cc/cco": "manutencao.predial@email.com",
+    "email": "O filtro de ar da cabine de pintura está completamente entupido, fazendo com que a exaustão não funcione e a tinta se espalhe pelo ambiente. Precisamos da troca urgente dos filtros. Att, Théo Ribeiro.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Como as metas individuais afetam a PLR?",
+    "cc/cco": "rh.remuneracao@email.com",
+    "email": "Gostaria de um exemplo prático de como o atingimento das minhas metas individuais (nota da avaliação de desempenho) modula o valor final da PLR. Existe uma tabela ou fórmula que possamos consultar? Grata, Esther Lima.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Ajuste de ponto - trabalho em feriado",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Trabalhei no último feriado, dia 07/09, das 8h às 14h, conforme convocação. Gostaria de confirmar que essas horas serão pagas com 100% de acréscimo e não irão para o banco de horas. Agradeço, Noah Ferreira.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Vale-refeição não caiu",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Olá, o crédito do vale-refeição que deveria ter sido feito hoje ainda não entrou no meu cartão. Outros colegas receberam. Houve algum problema específico com o meu? Poderiam verificar? Obrigado, Ravi Viana.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Férias - posso escolher a data do pagamento?",
+    "cc/cco": "rh.folha@email.com",
+    "email": "O pagamento das férias é sempre feito 2 dias antes do início do gozo? Ou eu posso solicitar que seja feito junto com o salário do mês anterior? Agradeço, Anthony Gabriel Santos.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Máquina parou - código de erro E-115",
+    "cc/cco": "manutencao.automacao@email.com",
+    "email": "O centro de usinagem parou e está mostrando o código de erro E-115 no painel. O manual diz 'Falha no drive do eixo Z'. Não temos conhecimento para intervir. Solicitamos um técnico. Att, João Pedro Costa.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Divulgação dos resultados da PLR",
+    "cc/cco": "comunicacao.interna@email.com",
+    "email": "Sugerimos que os resultados da PLR sejam divulgados em uma reunião geral, com a presença da diretoria, para explicar os desafios e as conquistas. Acreditamos que isso valoriza o esforço de todos. Att, Representante do Depto. de Qualidade.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Licença Paternidade - Abono",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Meu filho nasceu e estarei ausente nos próximos 5 dias em licença-paternidade. Envio a certidão de nascimento em anexo para comprovação e solicito o abono dos dias. Grato, Isaac Rocha.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Reembolso de farmácia não efetuado",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "Enviei a nota fiscal do medicamento de alto custo para reembolso, conforme política da empresa, há mais de um mês, e o valor ainda não foi depositado. Podem verificar o que aconteceu? NF em anexo novamente. Grata, Ayla Dias.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Posso tirar menos de 30 dias de férias?",
+    "cc/cco": "rh@email.com",
+    "email": "Gostaria de saber se posso fracionar minhas férias em 3 períodos de 10 dias. A nova legislação permite, mas queria confirmar se a política interna da empresa já foi adequada. Obrigado, Emanuelly Barbosa.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Vazamento no teto sobre a máquina",
+    "cc/cco": "manutencao.predial@email.com",
+    "email": "Está chovendo forte e há um vazamento no teto exatamente sobre o painel elétrico do torno T-05. Cobrimos o painel com plástico, mas o risco de curto-circuito é grande. Precisamos de uma solução urgente. Att, Bryan Carvalho.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Cálculo da PLR para quem mudou de cargo",
+    "cc/cco": "rh.remuneracao@email.com",
+    "email": "Fui promovido em maio. O cálculo da minha PLR será feito com base no meu salário antigo, no novo, ou uma média? Como isso funciona? Agradeço o esclarecimento. Atenciosamente, Heitor Farias.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Meu ponto não registrou a saída para o almoço",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Bati o ponto para sair para o almoço, mas acho que o sistema não registrou. Quando voltei, registrei a entrada e agora consta que trabalhei sem intervalo. Podem inserir a marcação de saída às 12:01, por favor? Grato, Luiz Otávio Gomes.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Pagamento de curso de idiomas não creditado",
+    "cc/cco": "rh.beneficios@email.com",
+    "email": "O subsídio para o curso de inglês, que faz parte do meu plano de desenvolvimento, não foi pago este mês. A escola já está me cobrando. Podem verificar o repasse? Atenciosamente, Maria Alice Araujo.",
+    "categoria": "problema com pagamento"
+  },
+  {
+    "titulo": "Férias e CIPA",
+    "cc/cco": "rh@email.com",
+    "email": "Sou membro da CIPA e tenho estabilidade. Minhas férias estão vencendo. Posso tirá-las normalmente ou há alguma implicação por causa da CIPA? Grata, Isis Correia.",
+    "categoria": "férias"
+  },
+  {
+    "titulo": "Empilhadeira não liga",
+    "cc/cco": "manutencao@email.com",
+    "email": "A empilhadeira elétrica E-02 não está ligando. A bateria está totalmente carregada, mas ela não dá nenhum sinal ao girar a chave. Precisamos dela para descarregar um caminhão que acabou de chegar. Att, Davi Lucas Costa.",
+    "categoria": "problema com a máquina"
+  },
+  {
+    "titulo": "Metas da PLR x Metas do departamento",
+    "cc/cco": "gestor.area@email.com",
+    "email": "Gostaria de entender como as metas do nosso departamento se conectam com as metas globais da empresa que definem a PLR. Podemos ter uma reunião para alinhar isso? Equipe de Logística.",
+    "categoria": "plr"
+  },
+  {
+    "titulo": "Ajuste de ponto - ida ao médico",
+    "cc/cco": "rh.ponto@email.com",
+    "email": "Estou enviando o atestado de comparecimento ao dentista hoje de manhã. Fiquei ausente por 2 horas. Solicito o abono. Obrigado, Caleb Dias.",
+    "categoria": "falta de apontamento"
+  },
+  {
+    "titulo": "Salário depositado com valor a menos",
+    "cc/cco": "financeiro.folha@email.com",
+    "email": "Meu salário este mês veio com R$ 150,00 a menos e não há nenhuma descrição no holerite que justifique essa diferença. Podem verificar o que pode ter acontecido e fazer o pagamento da diferença? Grato, Enzo Lima.",
+    "categoria": "problema com pagamento"
+  }
+]
